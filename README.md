@@ -3,9 +3,9 @@ Welcome to my Power BI Portfolio.
 This repository contains my Microsoft Power BI projects focused on data analysis, data visualization, financial analysis, and interactive dashboard development.
 As an Accounting graduate with an interest in data analytics and business intelligence, I use Power BI to transform data into clear and meaningful insights that support business decision-making.
 
-## 📊 Projects
+## Projects
 
-### 1. Financial Performance Dashboard
+### Financial Performance Dashboard
 
 An interactive financial dashboard designed to analyze financial performance, trends, and key business metrics.
 
